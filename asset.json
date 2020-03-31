@@ -1,0 +1,17 @@
+{
+  "assets":
+  [
+    {
+      "id": "A9160610-DB5A-4E3C-9C6E-F569BA7A066C",
+      "name": "Asset 1"
+    },
+    {
+      "id": "31028CA7-5F86-4892-AD2C-9DB022724C21",
+      "name": "Asset 2"
+    },
+    {
+      "id": "1FDA0AA7-EE42-4789-9550-69572D0C999E",
+      "name": "Asset 3"
+    }
+  ]
+}
